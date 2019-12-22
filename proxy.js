@@ -33,14 +33,18 @@ var domainList = [
     "youtube.com",
     "youtubeeducation.com",
     "youtubegaming.com",
+    /* -------- GitHub -------- */
+    "github.com",
+    "github.io",
+    "githubusercontent.com",
+    /* -------- tools -------- */
+    "wikipedia.org",
     /* -------- Social Media -------- */
     "facebook.com",
     "twitter.com",
     "instagram.com",
     "flickr.com",
-    "blogspot.com",
-    /* -------- tools -------- */
-    "wikipedia.org"
+    "blogspot.com"
 ];
 
 function FindProxyForURL(url, host)
